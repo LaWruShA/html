@@ -1,0 +1,41 @@
+:root {
+  background-image: url(https://html5book.ru/wp-content/uploads/2015/05/svetlye_fony.jpg);
+}
+
+body {
+
+  font-family: monospace;
+}
+
+header {
+  padding: 25px;
+  text-align: center;
+}
+header > a {
+  background-color: #edd1bd;
+  text-decoration: none;
+  padding: 5px 20px;
+}
+
+
+h1 {
+  text-align: center;
+  color: black;
+  background-color: #edd1bd;
+  width: 300px;
+  height: 33px;
+  margin: auto;
+}
+p {
+  text-align: center;
+  color: black ;
+  width: 200px;
+  background-color: #edd1bd;
+}
+
+
+
+.container {
+  max-width: 1000px;
+  padding: 2rem 0;
+}
